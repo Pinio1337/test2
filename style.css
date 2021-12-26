@@ -10,15 +10,5 @@ body {
     font-family: "Ubuntu", sans-serif;
     overflow: hidden;
     text-align: center;
-}
-.test {
-    background-color: gray;
-    text-transform: uppercase;
-    width: 40vw;
-    margin: auto;
-}
-.container {
-    height: 100px;
-    width: 100%;
-    background-color: rgb(247, 169, 2);
+    width: 50px;
 }
